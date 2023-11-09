@@ -1,4 +1,3 @@
-# example-swagger-autogen
 
 Install the dependencies:
 
@@ -22,11 +21,3 @@ Run the project and access the documentation at:
 
 [http://localhost:3000/doc](http://localhost:3000/doc)
 
-## Screenshots
-See the result after construction:
-
-![](https://raw.githubusercontent.com/davibaltar/public-store/master/screen-swagger-autogen.png)
-
-
-## License
-[MIT](LICENSE) License
